@@ -1,6 +1,30 @@
 # uhub
 
-A new Flutter project.
+This is a educational app. The name of this app is AllCart. 
+### Features
+  1. Login
+  2. Sign In With Phone
+  3. Sign In With Email
+  4. View Free Resource
+### Tech
+  1. Flutter 
+  2. Dart
+  3. Sawo
+### Libraries used
+  1.smooth_page_indicator: ^1.0.0+2
+  2.flutter_signin_button: ^2.0.0
+  3.intl_phone_field: ^2.0.1
+  4.url_launcher: ^6.0.10
+  5.hexcolor: ^2.0.5
+  6.sawo: ^0.1.2
+  7.cupertino_icons: ^1.0.2
+### ScreenShots 
+
+![LogIn](/screenshots/login.jpeg)
+![SignIn](/screenshots/signin.jpeg)
+![Profile](/screenshots/profile.jpeg)
+![User](/screenshots/user.jpeg)
+![Resource](/screenshots/resource.jpeg)
 
 ## Getting Started
 
